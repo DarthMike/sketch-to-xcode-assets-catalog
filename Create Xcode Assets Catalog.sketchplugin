@@ -7,17 +7,17 @@
 var factors = [
     {
         folder: '',
-        scale: 1.0,
+        scale: 0.5,
         suffix: '',
     },
     {
         folder: '',
-        scale: 2.0,
+        scale: 1.0,
         suffix: '@2x',
     },
     {
         folder: '',
-        scale: 3.0,
+        scale: 1.5,
         suffix: '@3x',
     },
 ];
